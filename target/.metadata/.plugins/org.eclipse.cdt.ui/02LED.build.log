@@ -1,0 +1,10 @@
+14:47:22 **** Incremental Build of configuration Debug for project 02LED ****
+make -j16 all 
+arm-none-eabi-size   02LED.elf 
+   text	   data	    bss	    dec	    hex	filename
+    776	      8	   1568	   2352	    930	02LED.elf
+Finished building: default.size.stdout
+ 
+
+14:47:22 Build Finished. 0 errors, 0 warnings. (took 181ms)
+

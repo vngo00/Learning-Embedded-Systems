@@ -1,0 +1,10 @@
+11:53:53 **** Incremental Build of configuration Debug for project alignedvsnon_algined_mem ****
+make -j16 all 
+arm-none-eabi-size   alignedvsnon_algined_mem.elf 
+   text	   data	    bss	    dec	    hex	filename
+   5396	    108	   1596	   7100	   1bbc	alignedvsnon_algined_mem.elf
+Finished building: default.size.stdout
+ 
+
+11:53:54 Build Finished. 0 errors, 0 warnings. (took 170ms)
+
